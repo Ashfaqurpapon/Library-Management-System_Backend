@@ -6,8 +6,7 @@ The **Library Management System API** is a robust backend solution designed to m
 ---
 
 ## 🌐 Live URL  
-Check out the live API deployment here: [Live API URL](https://sql-backend-seven.vercel.app/) *(Add the actual URL once deployed.)*
-
+Check out the live API deployment here: [Live API URL](https://sql-backend-seven.vercel.app/) *
 ---
 
 ## 🛠️ Technology Stack & Packages  
@@ -59,12 +58,5 @@ Run the application:
 - **Overdue Borrow List**: Identifies books not returned within the 14-day borrowing period.  
 - **Overdue Reports**: Displays a list of overdue books with details such as book title, borrower name, and overdue days.
 
-### **5. Error Handling**
-- **Standardized Error Responses**: All errors follow a unified format for better debugging:
-  ```json
-  {
-    "success": false,
-    "status": <HTTP_STATUS_CODE>,
-    "message": "<Error message>"
-  }
+
 
