@@ -6,7 +6,9 @@ The **Library Management System API** is a robust backend solution designed to m
 ---
 
 ## 🌐 Live URL  
-Check out the live API deployment here: [Live API URL](https://sql-backend-seven.vercel.app/) *
+Check out the live API deployment here: [Live API URL](https://sql-backend-seven.vercel.app/) 
+
+
 ---
 
 ## 🛠️ Technology Stack & Packages  
